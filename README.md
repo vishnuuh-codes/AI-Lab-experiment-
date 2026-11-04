@@ -13,7 +13,6 @@ Collection of Artificial Intelligence and Machine Learning lab experiments.
 | **7** | `EXPERIMENT 7.py` | Breadth-First Search (BFS) Traversal |
 | **8** | `EXPERIMENT 8.py` | Depth-First Search (DFS) Traversal |
 | **9** | `EXPERIMENT 9.py` | Traveling Salesperson Problem (TSP) |
-
 | **10** | `EXPERIMENT 10.py` | A* Pathfinding Algorithm |
 | **11** | `EXPERIMENT 11.py` | Map Coloring Problem |
 | **12** | `EXPERIMENT 12.py` | Tic-Tac-Toe Game |
